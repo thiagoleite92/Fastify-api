@@ -1,4 +1,12 @@
+# Dependencies
 node_modules
+
+# Database
 tmp
+
+# Environment
 .env
 .env.test
+
+# build
+dist

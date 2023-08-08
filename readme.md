@@ -10,7 +10,7 @@
 - [🆗] A transação pode ser dos tipos
   - Crédito: adicionar ao valor total
   - Débito: subtrair do valor total
-- [] Deve ser possível identificarmos o usuário entre as requisições
-- [] O usuário só pode visualizar transações no qual ele criou
+- [🆗] Deve ser possível identificarmos o usuário entre as requisições
+- [🆗] O usuário só pode visualizar transações no qual ele criou
 
 #RNF
